@@ -109,5 +109,5 @@ The **Random Forest classifier** achieved an overall accuracy of **86.2%**, with
 
 👩‍💻 Author
 Shaimaa Alazazy
-GitHub: My GitHub Profile
+[My GitHub Profile](https://github.com/Shaimaa307)
 
